@@ -1,8 +1,8 @@
 # Instapush-PHP Documentation
 
-This is the documentation repository of the [InstapushPHP](link-instapushphp) the PHP wrapper for instapush.im APIs
+This is the documentation repository of the [InstapushPHP][link-instapushphp] the PHP wrapper for instapush.im APIs
 
-Browse the documentation on [Read the Docs](link-readthedoc).
+Browse the documentation on [Read the Docs][link-readthedoc].
 
 ## Credits
 
@@ -16,4 +16,4 @@ Browse the documentation on [Read the Docs](link-readthedoc).
 [link-author-gitlab]: https://gitlab.com/fnayou
 [link-author-github]: https://github.com/fnayou
 [link-instapushphp]: https://github.com/fnayou/instapush-php
-[link-readthedoc]: http://instapush-php.readthedocs.org/
+[link-readthedoc]: http://instapush-php.readthedocs.io

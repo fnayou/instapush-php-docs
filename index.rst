@@ -1,4 +1,4 @@
-InstapushPHP: PHP wrapper for instapush.im APIs
+InstapushPHP: PHP wrapper for instapush.im
 ===================================
 
 .. image:: assets/images/instapush-php_120x114.png
