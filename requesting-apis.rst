@@ -6,6 +6,8 @@ Requesting APIs
 .. note::
     Please check `Instapush REST documentation`_ for more information about REST APIs.
 
+.. _requesting-apis-list-applications:
+
 List of applications
 --------------------
 
@@ -25,6 +27,8 @@ that extend ``Doctrine\Common\Collections\ArrayCollection``.
 
 .. note::
     Full description of :doc:`Fnayou\\InstapushPHP\\Model\\Applications <models/applications>` model.
+
+.. _requesting-apis-add-application:
 
 Add application
 ---------------
@@ -49,6 +53,8 @@ The response ``$application`` will be instance of ``Fnayou\InstapushPHP\Model\Ap
 .. note::
     Full description of :doc:`Fnayou\\InstapushPHP\\Model\\Application <models/application>` model.
 
+.. _requesting-apis-list-events:
+
 List of events
 --------------
 
@@ -68,6 +74,8 @@ that extend ``Doctrine\Common\Collections\ArrayCollection``.
 
 .. note::
     Full description of :doc:`Fnayou\\InstapushPHP\\Model\\Events <models/events>` model.
+
+.. _requesting-apis-add-event:
 
 Add event
 ---------
@@ -95,6 +103,8 @@ The response ``$event`` will be instance of ``Fnayou\InstapushPHP\Model\Event``.
 
 .. note::
     Full description of :doc:`Fnayou\\InstapushPHP\\Model\\Event <models/event>` model.
+
+.. _requesting-apis-post-notification:
 
 Post notification
 -----------------
